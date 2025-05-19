@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Capacitor Android
+android/.gradle/
+android/build/
+*.log
+
+# Capacitor iOS
+ios/build/
+ios/Pods/
+
+# Capacitor web output
+www/
+
+# System
+.DS_Store
+Thumbs.db
